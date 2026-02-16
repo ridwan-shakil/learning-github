@@ -3,5 +3,5 @@
 /.github
 /node_modules
 
-.distignore*
+.distignore
 .gitignore
